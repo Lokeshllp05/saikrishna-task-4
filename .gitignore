@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+research_report.pdf
+test_output.pdf
